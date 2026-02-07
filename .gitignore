@@ -1,0 +1,6 @@
+myevn/
+images/
+cropped_faces/
+__pycache__/
+*.pyc
+.DS_Store
